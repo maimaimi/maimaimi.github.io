@@ -1,3 +1,4 @@
 # maimaimi.github.io
 
-This is one of my portfolio websites!
+This is my first website!
+using HTML and CSS. 
